@@ -56,8 +56,8 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. After that go to the bottom at deployed contracts  and cilck on side arrow with MyToken contract. Here, we have to enter the address of the token which we can copy from the Account section and Enter the address in the Mint,Burn and Balances section to test these functions.
 Then transact by entering the amount we want to add to or remove from the balance.
 
-Mint will Add the amount
-Burn will Remove the balances
+Mint will Add the amount.
+Burn will Remove the Balances.
 Total supply will return the Balances at last.
 
 ## Authors
